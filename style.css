@@ -5,3 +5,19 @@
     box-sizing: border-box;
     font-family: "poppins",sans-serif;
 }
+.main-content{
+    min-height: 100vh;
+    width: 100%;
+    height: 100%;
+}
+.navlist ul{
+    display: flex;
+    background-color: chartreuse;
+
+}
+.navlist ul{
+
+}
+.navlist ul li{
+    
+}
